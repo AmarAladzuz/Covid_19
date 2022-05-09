@@ -1,1 +1,1 @@
-# Covid SQL Project
+# Covid Project
