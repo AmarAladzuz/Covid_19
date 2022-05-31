@@ -12,7 +12,7 @@ Through this project I managed to analyze real world data on COVID-19. I have ut
 
 
 
-
+![image](https://user-images.githubusercontent.com/99446425/171234110-c005dda7-2e80-4ac0-8250-00a1bd16acac.png)
 
 ![image](https://user-images.githubusercontent.com/99446425/169653183-672cbbb8-383e-4840-8d93-2fcc7d8689e0.png)
 
