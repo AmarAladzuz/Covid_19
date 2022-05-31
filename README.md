@@ -7,7 +7,7 @@ https://public.tableau.com/views/CovidDashboard_16522902292710/Dashboard1?:langu
 
 ### Overview
 
-
+Through this project I managed to analyze real world data on COVID-19. I have utilized SQL and Tableau for that purpose. 
 
 
 
