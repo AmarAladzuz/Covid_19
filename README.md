@@ -7,7 +7,7 @@ https://public.tableau.com/views/CovidDashboard_16522902292710/Dashboard1?:langu
 
 ### Overview
 
-Through this project I managed to analyze real world data on COVID-19. I have utilized SQL and Tableau for that purpose. 
+Through this project I managed to analyze real world data on COVID-19. I have utilized SQL and Tableau for that purpose. I have split data into two datasets so I could practice some formulas and features of SQL. First data sat was about the COVID-19 deaths stats and the other one was about the vaccination stats.
 
 
 
